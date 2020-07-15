@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 39,
+    "uniqCompNum": 40,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -59,8 +59,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Formula Sucesso Online Rápido",
+        "meta_descr": "Treinamento Formula 3 Passos Para Ter Sucesso Online Rápido. Nesse super Treinamento Formula 3 Passos Para Ter Sucesso Online Rápido...",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
