@@ -47,7 +47,7 @@
     "uniqCompNum": 42,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
